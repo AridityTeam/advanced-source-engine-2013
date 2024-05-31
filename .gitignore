@@ -1,0 +1,37 @@
+# ruh
+.vs # this is a directory
+*.suo
+*.user
+*.sln.docstates
+*.obj
+*.pch
+*.tlog
+*.log
+*.scc
+*.exp
+*.ilk
+*.lastbuildstate
+*.pdb
+ipch
+*.sdf
+*.opensdf
+*.idb
+*.vcxproj
+*.sln
+*.filters
+*.tlog
+[Rr]elease
+[Dd]ebug
+
+*.vpc_crc
+*.sentinel
+
+*.pdb
+*.dll
+*.lib
+*.so
+*.dbg
+*.dSYM
+*.dylib
+
+*.tmp
