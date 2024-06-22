@@ -1,6 +1,9 @@
 
 # Advanced source engine 2013
 
+**NOTE!!!!!!: the original creator deleted his GitHub account that includes advanced-source-engine-2013 with it.**
+**From now on, this is the only available source.**
+
 Valve official source engine 2013 release code does not include some features like gameui, launcher, etc...
 
 So, using the 2017 Source Engine source code leaks, I tried to link some missing items source code that Valve didn't release.
